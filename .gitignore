@@ -34,3 +34,9 @@ Thumbs.db
 /routes.zip
 /composer.phar
 /.git_backup
+# Temp: OneDrive cloud-only stubs (re-add when downloaded)
+.styleci.yml
+CHANGELOG.md
+artisan
+bootstrap/app.php
+bootstrap/providers.php
